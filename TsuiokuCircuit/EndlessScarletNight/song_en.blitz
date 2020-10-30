@@ -1,0 +1,250 @@
+[Meta]
+title=Endless Scarlet Night (English Version)
+title[k]=エンドレス スカーレット ナイト イングリッシュバージョン
+artist=追憶サーキット／ウタイさん
+artist[l]=Tsuioku Circuit / Utai-san
+artist[k]=ツイオクサーキット ウタイサン
+album=Scarlet System
+album[k]=スカーレットシステム
+seenon=東方高魔境〜the Embodiment of Scarlet Devil
+seenon[l]=Touhou Koumakyou ~ the Embodiment of Scarlet Devil
+seenon[k]=トウホウコウマキョウ ジ エンボディメント オブ スカーレットデビル
+writer=marcan・セナ
+writer[l]=marcan & sena
+writer[k]=マルカン セナ
+composer=ZUN
+composer[k]=ズン
+genre[*]=Game
+lang[*]=JA
+
+[Song]
+audio=EndlessScarletNight.opus
+video=background.jpg
+track_gain=-2.5800
+track_peak=0.9817
+cover=cover.jpg
+channels=0
+
+[Timing]
+@0=0
+@60=132
+
+[Formats]
+E=English
+
+[Styles]
+{english}
+font=TakaoPGothic.ttf
+size=11
+outline_width=0.3
+border_width=0.8
+colors=ffeeee,a04020,000000
+colors_on=ff7676,ffffff,000000
+
+[Variants]
+{english}
+name=english
+tags=E
+style=english
+
+
+[Lyrics]
+
+E: Dimly lit by a chan.de.lier
+@: 38+1/2  1/2 1/2 1/2 1 1/2 1 1 2+1/2
+
+E: A red drop glistens on a glass
+@: 46+1/2  1/2 1/2 1/2 1 1/2 1 1 2+1/2
+
+E: Is it just {wine}, or some.thing alarming? 
+@: 54+1/2  1/2 1/2 1/2 1+1/2 1 1/2 1/2 1/2 1+1/2 1/2
+
+E: Such things are none of your concern$
+@: 62+1/2  1/2 1/2 1/2 1 1/2 1 1 2+1/2
+
+
+E: The mi{nutes} following a feast
+@: 70+1/2  1/2 1/2 1/2 1 1/2 1 1 2
+
+E: Are {some}{thing} splendid, don't you agree?
+@: 78+1/2  1/2 1/2 1/2 1+1/2 1 1/2 1/2 1/2 2
+
+E: Savour the moment for not much longer
+@: 86+1/2  1/2 1/2 1/2 1+1/2 1 1/2 1/2 1/2 1+1/2 1
+
+E: It's time for you to come and join me$
+@: 94+1/2  1/2 1/2 1/2 1 1/2 1 1 2 1+1/2
+
+
+E: So I seize upon your hand 
+@: 103  1/2 1/2 1/2 1/2 1/2 1/4 3/4
+
+E: And a grin begins to spread
+@: 106+1/2  3/4 3/4 1/2 1/2 1/2 1/4 3/4
+
+E: As we hurry away to the door$
+@: 110+1/2  3/4 3/4 3/4 3/4 1/2 3/4 3/4 1/2 2
+
+
+E: $^2Walking down the stairs in haste
+@: 119  1/2 1/2 1/2 1/2 1/2 1/4 3/4
+
+E: {There's} no time for us to waste
+@: 122+1/2  3/4 3/4 1/2 1/2 1/2 1/4 3/4
+
+E: As tonight you'll be dancing with me$
+@: 126+1/2  3/4 3/4 3/4 3/4 1/2 3/4 3/4 1/2 2
+
+
+E: When the day {comes} to a close
+@: 135  1/2 1/2 1+1/2 1/2 3/4 3/4 3+1/2
+
+E: Let us dance deep into the night
+@: 143  1/2 1/2 1+1/2 1/4 1/4 3/4 3/4 2+1/2
+
+E: As now is not the time for dreams
+@: 150+1/2  1/2 1/2 1/2 1+1/2 1/2 3/4 3/4 2
+
+E: For your dreams for today are mine$
+@: 159  1/2 1/2 1/2 1/2 1/2 1 1 3+1/2
+
+
+E: Go ahead and take a step
+@: 167  1/2 1/2 1+1/2 1/2 3/4 3/4 3+1/2 
+
+E: On towards the entrancing lights
+@: 175  1/2 1/2 1+1/2 1/4 1/4 3/4 3/4 2+1/2
+
+E: Take my hand and yield your mind
+@: 183  1/2 1/2 1+1/2 1/2 3/4 3/4 3+1/2
+
+E: To the {chimes} that forever ring
+@: 191  1/2 1/2 1/2 1/2 1/2 1 1 1
+
+E: In.to the {e}{n}{dless} scarlet night
+@: 198+1/2  1/2 1/2 1/2 1/2 1/2 1/2 1 1 2+1/2
+
+
+E: Let's take a moment of recess
+@: 242+1/2  1/2 1/2 1/2 1 1/2 1 1 1+1/2
+
+E: Your {eyes} just happen to fall on my dress
+@: 250+1/2  1/2 1/2 1/2 1/2 1/2 1/2 1 1/2 1/2 1+1/2
+
+E: A crimson sme.ar? Don't worry, de.ar
+@: 258+1/2  1/2 1/2 1/2 1+1/2 1 1/2 1/2 1/2 1+1/2 1
+
+E: Such things just don't deserve our time$
+@: 266+1/2  1/2 1/2 1/2 1 1/2 1 1 2+1/2
+
+
+E: May I indulge you with a drink?
+@: 274+1/2  1/2 1/2 1/2 1 1/2 1 1 3
+
+E: My {fav}{orite} cock.tail if you wish
+@: 282+1/2  1/2 1/2 1/2 1+1/2 1 1/2 1/2 2
+
+E: Savour it slowly, no need to hurry
+@: 290+1/2  1/2 1/2 1/2 1+1/2 1 1/2 1/2 1/2 1+1/2 1
+
+E: The night has only just begun$
+@: 298+1/2  1/2 1/2 1/2 1 1/2 1 1 2+1/2
+
+
+E: $^2Now it's time to feel at ease
+@: 307  1/2 1/2 1/2 1/2 1/2 1/4 3/4
+
+E: As I always aim to please
+@: 310+1/2  3/4 3/4 1/2 1/2 1/2 1/4 3/4
+
+E: Leave your worries behind at the door$
+@: 314+1/2  3/4 3/4 3/4 3/4 1/2 3/4 3/4 1/2 3
+
+
+E: $^2As the pulsing esca{lates}
+@: 323  1/2 1/2 1/2 1/2 1/2 1/4 3/4
+
+E: Let the scarlet chains of fate
+@: 326+1/2  3/4 3/4 1/2 1/2 1/2 1/4 3/4
+
+E: Break the border be.tween you and me
+@: 330+1/2  3/4 3/4 3/4 3/4 1/2 3/4 3/4 1/2 2
+
+
+E: While you remain wi.thin these bounds
+@: 338+1/2  1/2 1/2 1/2 1+1/2 1/2 3/4 3/4 3 
+
+E: You will submit to my command
+@: 346+1/2  1/2 1/2 1/2 1+1/2 1/2 3/4 3/4 2+1/4
+
+E: {There's} no reason to be {scared}
+@: 355  1/2 1/2 1+1/2 1/2 3/4 3/4 2+1/2
+
+E: All I ask of you is to dance$
+@: 363  1/2 1/2 1/2 1/2 1/2 1 1 2+1/2
+
+
+E: Just let the oscillating air
+@: 370+1/2  1/2 1/2 1/2 1+1/2 1/2 3/4 3/4 2+1/2
+
+E: Put your mind into a trance
+@: 379  1/2 1/2 1+1/2 1/2 3/4 3/4 2+1/2
+
+E: Now our hearts will beat in step
+@: 387  1/2 1/2 1+1/2 1/2 3/4 3/4 2+1/2
+
+E: Stepping forward as we advance
+@: 395  1/2 1/2 1/2 1/2 1/2 1 1 2+1/4
+
+E: In.to the {e}{n}{dless} scarlet night
+@: 402+1/2  1/2 1/2 1/2 1/2 1/2 1/2 1 1 2+1/2
+
+
+
+E: $^2So I seize upon your hand 
+@: 475  1/2 1/2 1/2 1/2 1/2 1/4 3/4
+
+E: And a grin begins to spread
+@: 478+1/2  3/4 3/4 1/2 1/2 1/2 1/4 3/4
+
+E: As we hurry away to the door$
+@: 482+1/2  3/4 3/4 3/4 3/4 1/2 3/4 3/4 1/2 2
+
+
+E: $^2Walking down the stairs in haste
+@: 491  1/2 1/2 1/2 1/2 1/2 1/4 3/4
+
+E: {There's} no time for us to waste
+@: 494+1/2  3/4 3/4 1/2 1/2 1/2 1/4 3/4
+
+E: As tonight you'll be dancing with me$
+@: 498+1/2  3/4 3/4 3/4 3/4 1/2 3/4 3/4 1/2 2
+
+
+E: When the day {comes} to a close
+@: 507  1/2 1/2 1+1/2 1/2 3/4 3/4 3+1/2
+
+E: Let us dance deep into the night
+@: 515  1/2 1/2 1+1/2 1/4 1/4 3/4 3/4 2+1/2
+
+E: As now is not the time for dreams
+@: 522+1/2  1/2 1/2 1/2 1+1/2 1/2 3/4 3/4 2
+
+E: For your dreams for today are mine$
+@: 531  1/2 1/2 1/2 1/2 1/2 1 1 3+1/2
+
+
+E: Go ahead and take a step
+@: 539  1/2 1/2 1+1/2 1/2 3/4 3/4 3+1/2 
+
+E: On towards the entrancing lights
+@: 547  1/2 1/2 1+1/2 1/4 1/4 3/4 3/4 2+1/2
+
+E: Take my hand and yield your mind
+@: 555  1/2 1/2 1+1/2 1/2 3/4 3/4 3+1/2
+
+E: To the {chimes} that forever ring
+@: 563  1/2 1/2 1/2 1/2 1/2 1 1 1
+
+E: In.to the {e}{n}{dless} scarlet night
+@: 570+1/2  1/2 1/2 1/2 1/2 1/2 1/2 1 1 2+1/2

@@ -1,0 +1,411 @@
+[Meta]
+title=Break the Chains
+title[k]=ブレイク ザ チェインズ
+artist=追憶サーキット／ウタイさん
+artist[l]=Tsuioku Circuit / Utai-san
+artist[k]=ツイオクサーキット ウタイサン
+album=Scarlet System
+album[k]=スカーレットシステム
+seenon=東方高魔境〜the Embodiment of Scarlet Devil
+seenon[l]=Touhou Koumakyou ~ the Embodiment of Scarlet Devil
+seenon[k]=トウホウコウマキョウ ジ エンボディメント オブ スカーレットデビル
+writer=marcan・セナ
+writer[l]=marcan & sena
+writer[k]=マルカン セナ
+composer=ZUN
+composer[k]=ズン
+genre[*]=Game
+lang[*]=JA
+
+[Song]
+audio=BreakTheChains.opus
+video=background.jpg
+track_gain=-3.2200
+track_peak=0.9912
+cover=cover.jpg
+
+[Timing]
+@0=0
+@60=130
+
+[Formats]
+J=Japanese
+R=Romaji
+
+[Styles]
+{japanese}
+font=TakaoPGothic.ttf
+size=14
+outline_width=0.3
+border_width=0.8
+colors=ffeeee,a04020,000000
+colors_on=ff7676,ffffff,000000
+
+{romaji}
+font=TakaoPGothic.ttf
+size=11
+outline_width=0.3
+border_width=0.8
+colors=ffeeee,a04020,000000
+colors_on=ff7676,ffffff,000000
+
+[Variants]
+{japanese}
+name=日本語
+tags=J
+style=japanese
+
+{romaji}
+name=romaji
+tags=R
+style=romaji
+
+{both}
+name=日本語 + romaji
+tags=J,R
+J.style=japanese
+R.style=romaji
+R.edge=top
+
+[Lyrics]
+
+J: 見(み)慣(な)れた人(にん)形(ぎょう)と$
+R: minareta ningyou to$
+@: 36+1/2  1/2 1/2 1/4 3/4 1/2 1/2 1/2 2 1
+
+J: この聞(き)き慣(な)れた時(と)計(けい)の音(おと)$
+R: kono kikinareta tokei no oto$
+@: 43  1/2 1 1/2 1/2 1/4 3/4 1/2 1/2 1/2 2+1/2 1/2 1/2 3/4
+
+J: 変(か)わらない日(ひ)々(び)を繰(く)り返(かえ)して$
+R: kawaranai hibi o kurikaeshite$
+@: 52+1/2  1/2 1/2 1/4 3/4 1 1/2 1/2 1/2 1/2 1/4 3/4 1/2 1/2 1/2
+
+J: うんざりしてるの$
+R: unzari shiteru no$
+@: 60+1/2  1/2 1/2 1/4 3/4 1/2 1/2 1/4 2+1/2
+
+
+J: 本(ほん)当(とう)の気(き)持(も)ち隠(かく)して
+R: hontou no kimochi kakushite
+@: 68+1/2  1/2 1/2 1/4 3/4 1/2 1/2 1/2 2 1/2 1/2 1/2 1/2
+
+J: 生(い)きるなんてつまらないよね$
+R: ikiru nante tsumaranai yo ne$
+@: 76+1/2  1/2 1/2 1/4 1/4 1/2 1/2 1/2 1/2 2 1/2 1/2 1/2 1/2
+
+J: 孤(こ)独(どく)の連(れん)鎖(さ)を断(た)ち切(き)って
+R: kodoku no rensa o tachikitte
+@: 84+1/2  1/2 1/2 1/4 1+3/4 1/2 1/2 1/2 1/2 1/4 3/4 1/2 1/2 1/2
+
+J: 新(あら)たな道(みち)踏(ふ)み出(だ)す$
+R: aratana michi fumidasu$
+@: 92+1/2  1/2 1/2 1/4 3/4 1/2 1/2 1/4 2+1/4 1 1/2
+
+
+J: 着(き)飽(あ)きたドレスに
+R: kiakita doresu ni
+@: 100  1/3 1/3 1/3 1/3 1/3 1/3 2/3 2/3
+
+J: お別(わか)れを告(つ)げる時(とき)ね
+R: owakare o tsugeru toki ne
+@: 103+1/3  1/3 1/3 1/3 1/3 1/3 1/3 1/3 1/3 2/3 2/3 2/3
+
+J: 新(あら)たな気(き)持(も)ちに包(つつ)まれたいの$
+R: arata na kimochi ni tsutsumaretai no$
+@: 108  1/3 1/3 1/3 1/3 1/3 1/3 2/3 2/3 1/3 1/3 2/3 2/3 1/3 1/3 1/3
+
+
+J: 髪(かみ)を靡(なび)かせて
+R: kami o nabikasete
+@: 116  1/3 1/3 1/3 1/3 1/3 1/3 2/3 2/3
+
+J: この部(へ)屋(や)から飛(と)び出(だ)すの
+R: kono heya kara tobidasu no
+@: 119+1/3  1/3 1/3 1/3 1/3 1/3 1/3 1/3 1/3 2/3 2/3 2/3
+
+J: 数(かず)々(かず)の窓(まど)を横(よこ)切(ぎ)って出(で)かける$
+R: kazukazu no mado o yokogitte dekakeru$
+@: 124   1/3 1/3 1/3 1/3 1/3 1/3 2/3 2/3 1/3 1/3 1/3 1/3 1/3 1/3 1/3 1/3 2/3
+
+
+J: お日(ひ)様(さま)が眠(ねむ)る時(じ)間(かん)$
+R: ohisama ga nemuru jikan$
+@: 131  1/4 1/2 1+1/4 3/4 1+1/4 3/4 3/4 1/2 1/4 1/2 1/2
+
+J: 心(こころ)踊(おど)らすビートに呼(よ)ばれてる$
+R: kokoro odorasu biito ni yobareteru$
+@: 139  3/4 3/4 1/4 1/4 1/2 1/4 1/2 1/2 1/4 1/2 1/2 1/2 1/2 1/4 1/2 3/4
+
+J: このドアを打(う)ち開(ひら)き
+R: kono doa o uchihiraki
+@: 147  3/4 1+1/4 3/4 1+1/4 3/4 3/4 1/2 1/4 1/2 3/4
+
+J: さあ踊(おど)って
+R: saa odotte
+@: 155  1/2 1/2 1/2 1/2 1/2 1/4
+
+J: {just}({ジャスト}) {take}({テイク}) {my}({マイ}) {hand}({ハンド}) {and}({アンド}) {see}({シー})!$
+R: {just} {take} {my} {hand} {and} {see!}$
+@: 157+3/4  1/2 1/2 1/4 1/2 1/2 2+1/2
+
+
+J: 私(わたし)縛(しば)る鎖(くさり)壊(こわ)して$
+R: watashi shibaru kusari kowashite$
+@: 163  1/4 1/2 1+1/4 3/4 3/4 1/2 3/4 3/4 1/2 1/4 1/2 1+1/4 1/2
+
+J: 誰(だれ)にも邪(じゃ)魔(ま)されず
+R: dare ni mo jama sarezu
+@: 172  1/2 1/2 1/2 1/4 1/2 1/2 1/4 1/2 1/2
+
+J: 遊(あそ)びま{しょう}$
+R: asobima{shou}$
+@: 176  1/2 1/2 1/4 1/2 1/2
+
+J: このリズムを感(かん)じて
+R: kono rizumu o kanjite
+@: 179  3/4 1+1/4 3/4 1+1/4 3/4 3/4 1/2 1/4 1/2 3/4
+
+J: さあ手(て)を取(と)って
+R: saa te o totte
+@: 187  1/2 1/2 1/2 1/2 1/4 1/4 1/4
+
+J: {come}({カム}) {on}({オン}) {and}({アンド}) {dance}({ダンス}) {with}({ウィズ}) {me}({ミー})!$ 
+R: {come} {on} {and} {dance} {with} {me!}$
+@: 189+1/2  1/2 1/2 1/4 1/2 1/2 2+1/2
+
+J: 忘(わす)れられない夜(よる)にしたいよ$
+R: wasurerarenai yoru ni shitai yo$
+@: 196  1/2 1/2 1/2 1/4 1/2 1/2 1/4 1/2 1/2 1/2 1/2 1/4 1/2 1
+
+
+J: 館(やかた)を離(はな)れた私(わたし)$
+R: yakata o hanareta watashi$
+@: 220+1/2  1/2 1/2 1/4 3/4 1/2 1/2 1/2 2 1 1/2 1/2
+
+J: こんなに高(たか)く飛(と)べたのね$
+R: konna ni takaku tobeta no ne$
+@: 228+1/2  1/4 1/4 1/2 1/4 3/4 1/2 1/2 1/2 2+1/2 1/2 1/2 1/2
+
+J: 後(あと)で叱(しか)られてもいいわ$
+R: ato de shikararetemo ii wa$
+@: 236+1/2  1/2 1/2 1/4 3/4 1 1/4 1/4 1/2 1/2 1/2 1/4 3/4
+
+J: 今(いま)を楽(たの)しみたいのよ$
+R: ima o tanoshimitai no yo$
+@: 242+1/2  1/2 1/2 1 1/2 1/2 1/4 3/4 1/2 1/2 1/4 1+3/4
+
+
+J: 夜(よる)が終(お)わる頃(ころ)　キラリ$
+R: yoru ga owaru koro kirari$
+@: 252+1/2  1/2 1/2 1/4 1/2 3/4 1/2 1/4 2+3/4 1/2 1/2 1/2
+
+J: 虹(にじ)色(いろ)の翼(つばさ)　光(ひか)ってる$
+R: nijiiro no tsubasa hikatteru$
+@: 260+1/2  1/2 1/2 1/4 3/4 1/2 1/2 1/2 2 1/2 1/2 1/2 1/4 1/4
+
+J: 恐(おそ)れない{太陽}(たいよう)さえも$
+R: osorenai taiyou sae mo$
+@: 268+1/2  1/2 1/2 1/4 3/4 1 1/4 1/4 1/4 1/4 1/2 3/4 3/4
+
+J: 私(わたし)にはスポットライトよ$
+R: watashi ni wa supottoraito yo$
+@: 274+1/2  1/2 1/2 1 1/2 1/2 1/4 1/4 1/2 1/2 1/4 1/4 1/4 1+1/2
+
+
+J: 色(いろ)とりどりの
+R: irotoridori no
+@: 282  1 1 1/3 1/3 1/3 1/3 1/3
+
+J: お花(はな)たちと煌(きら)めく湖(みずうみ)
+R: ohanatachi to kirameku mizuumi
+@: 285+2/3  1/3 2/3 2/3 1/3 1/3 1/3 1/3 1/3 1/3 1/3 1/3 2/3 2/3 2/3
+
+J: 素(す)敵(てき)な景(け)色(しき)前(まえ)に息(いき)整(ととの)える$
+R: suteki na keshiki mae ni iki totonoeru$
+@: 292  1/3 1/3 1/3 1/3 1/3 1/3 2/3 1/3 1/3 1/3 1/3 2/3 1/3 1/3 1/3 1/3 2/3
+
+
+J: 初(はじ)めての香(かお)りと
+R: hajimete no kaori to
+@: 300  1/3 1/3 1/3 1/3 1/3 1/3 2/3 2/3 1/3
+
+J: 初(はじ)めて触(ふ)れる世(せ)界(かい)
+R: hajimete fureru sekai
+@: 303+2/3  1/3 1/3 1/3 1/3 1/3 1/3 1/3 2/3 2/3 2/3
+
+J: もっと知(し)りたい
+R: motto shiritai
+@: 308  1/3 1/3 1/3 1/3 1/3 1/3 2/3
+
+J: {ねえ}、お出(で)かけしま{しょう}？$
+R: {nee}, odekake shima{shou}?$
+@: 310+2/3  2/3 1/3 1/3 2/3 2/3 1/3 1/3 1/3
+
+
+J: このビートが響(ひび)いている限(かぎ)り
+R: kono biito ga hibiiteiru kagiri
+@: 315  1/4 1/2 3/4 1/2    3/4 3/4 1/2 1/2 1/4 3/4 1/2 1/4 1/2 1+1/4 1/2
+
+J: 踊(おど)る私(わたし) 誰(だれ)にも止(と)められ{ない}$
+R: odoru watashi dare ni mo tomerare{nai}$
+@: 323+1/2  1/2 1/2 1/2 1/2 1/4 1/2 1/2 1/4 1/2 1/2 1/2 1/2 1/4 1/2 1/2
+
+J: もう{一歩}(いっぽ)を踏(ふ)み出(だ)したなら
+R: mou ippo o fumidashita nara
+@: 331  1/2 1/4 3/4 1/2 3/4 1+1/4 1/2 1/2 1/2 1/2 1/4 1/2 1
+
+J: さあ踊(おど)って
+R: saa odotte
+@: 339  1/2 1/2 1/2 1/2 1/2 1/4
+
+J: {just}({ジャスト}) {take}({テイク}) {my}({マイ}) {hand}({ハンド}) {and}({アンド}) {see}({シー})!$
+R: {just} {take} {my} {hand} {and} {see!}$
+@: 341+3/4  1/2 1/2 1/4 1/2 1/2 2+1/2
+
+
+J: レー{ザー}{ビー}ムが煌(きら)めく下(した)で$
+R: ree{zaa} {bii}mu ga kirameku shita de$
+@: 347  1/4 1/2 1+1/4 1/2 1/4 1+1/4 1/2 1/2 1/2 1/2 1/4 1/2 1/2
+
+J: ずっとずっと
+R: zutto zutto
+@: 355  1/2 1/4 3/4 1/2 1/2 1/4
+
+J: {一緒}(いっしょ)に踊(おど)っていたいの$
+R: issho ni odotteitai no$
+@: 357+3/4  1/4 1/4 1/2 1/4 1/2 1/4 1/4 1/2 1/2 1/4 1/2 1/2
+
+J: 落(お)とさないでそのB({ビー})P({ピー})M({エム})
+R: otosanaide sono {bii}{pii}{emu}
+@: 363  1/4 1/2 1+1/4 1/2 1/4 3/4 1/2 1 1 3/4 3/4
+
+J: さあ手(て)を取(と)って
+R: saa te o totte
+@: 371  1/2 1/2 1/2 1/2 1/4 1/4 1/4
+
+J: {come}({カム}) {on}({オン}) {and}({アンド}) {dance}({ダンス}) {with}({ウィズ}) {me}({ミー})!$
+R: {come} {on} {and} {dance} {with} {me!}$
+@: 373+3/4  1/2 1/2 1/4 1/2 1/2 2+1/2
+
+J: 忘(わす)れられない夜(よる)にしたいよ$
+R: wasurerarenai yoru ni shitai yo$
+@: 380  1/2 1/2 1/2 1/4 1/2 1/2 1/4 1/2 1/2 1/2 1/2 1/4 1/2 1
+
+
+J: {今日}(きょう)が終(お)わりを告(つ)げて
+R: kyou ga owari o tsugete
+@: 424  1/2 1/2 1/2 1/2 1/2 1/4 1/4 1/2 1/2 3
+
+J: ニンゲンたちが眠(ねむ)りだす頃(ころ)$
+R: ningentachi ga nemuridasu koro$
+@: 432  1/2 1/2 1/2 1/2 1/2 1/4 1/4 1/2 1/2 1/2 1/2 1/2 1/2 1
+
+J: 楽(たの)しげな音(おと)が聞(き)こえてくる
+R: tanoshige na oto ga kikoetekuru
+@: 440  1/2 1/2 1/2 1/2 1/2 1/4 1/4 1/2 1/2 1/2 1/2 1/2 1/2 1
+
+J: もう待(ま)ちきれないわ
+R: mou machikirenai wa
+@: 448  1/2 1/2 1/2 1/2 1/2 1/4 1/4 1/2 1/2
+
+J: ねえ、踊(おど)りま{しょう}？$
+R: nee, odorima{shou}?$
+@: 452  1/3 1/3 1/3 1/3 1/3 1/3 1
+
+
+J: お日(ひ)様(さま)が眠(ねむ)る時(じ)間(かん)
+R: ohisama ga nemuru jikan
+@: 457  1/4 1/2 1+1/4 3/4 1+1/4 3/4 3/4 1/2 1/4 1/2 1/2
+
+J: 心(こころ)踊(おど)らすビートに呼(よ)ばれてる$
+R: kokoro odorasu biito ni yobareteru$
+@: 465  3/4 3/4 1/4 1/4 1/2 1/4 1/2 1/2 1/4 1/2 1/2 1/2 1/2 1/4 1/2 3/4
+
+J: このドアを打(う)ち開(ひら)き
+R: kono doa o uchihiraki
+@: 473  3/4 1+1/4 3/4 1+1/4 3/4 3/4 1/2 1/4 1/2 3/4
+
+J: さあ踊(おど)って
+R: saa odotte
+@: 481  1/2 1/2 1/2 1/2 1/2 1/4
+
+J: {just}({ジャスト}) {take}({テイク}) {my}({マイ}) {hand}({ハンド}) {and}({アンド}) {see}({シー})!$
+R: {just} {take} {my} {hand} {and} {see!}$
+@: 483+3/4  1/2 1/2 1/4 1/2 1/2 2+1/2
+
+
+J: 私(わたし)縛(しば)る鎖(くさり)壊(こわ)して$
+R: watashi shibaru kusari kowashite$
+@: 489  1/4 1/2 1+1/4 3/4 3/4 1/2 3/4 3/4 1/2 1/4 1/2 1+1/4 1/2
+
+J: 誰(だれ)にも邪(じゃ)魔(ま)されず
+R: dare ni mo jama sarezu
+@: 498  1/2 1/2 1/2 1/4 1/2 1/2 1/4 1/2 1/2
+
+J: 遊(あそ)びま{しょう}$
+R: asobima{shou}$
+@: 502  1/2 1/2 1/4 1/2 1/2
+
+J: このリズムを感(かん)じて
+R: kono rizumu o kanjite
+@: 505  3/4 1+1/4 3/4 1+1/4 3/4 3/4 1/2 1/4 1/2 3/4
+
+J: さあ手(て)を取(と)って
+R: saa te o totte
+@: 513  1/2 1/2 1/2 1/2 1/4 1/4 1/4
+
+J: {come}({カム}) {on}({オン}) {and}({アンド}) {dance}({ダンス}) {with}({ウィズ}) {me}({ミー})!$ 
+R: {come} {on} {and} {dance} {with} {me!}$
+@: 515+3/4  1/2 1/2 1/4 1/2 1/2 2+1/2
+
+
+J: このビートが響(ひび)いている限(かぎ)り
+R: kono biito ga hibiiteiru kagiri
+@: 521  1/4 1/2 3/4 1/2    3/4 3/4 1/2 1/2 1/4 3/4 1/2 1/4 1/2 1+1/4 1/2
+
+J: 踊(おど)る私(わたし) 誰(だれ)にも止(と)められ{ない}$
+R: odoru watashi dare ni mo tomerare{nai}$
+@: 529+1/2  1/2 1/2 1/2 1/2 1/4 1/2 1/2 1/4 1/2 1/2 1/2 1/2 1/4 1/2 1/2
+
+J: もう{一歩}(いっぽ)を踏(ふ)み出(だ)したなら
+R: mou ippo o fumidashita nara
+@: 537  1/2 1/4 3/4 1/2 3/4 1+1/4 1/2 1/2 1/2 1/2 1/4 1/2 1
+
+J: さあ踊(おど)って
+R: saa odotte
+@: 545  1/2 1/2 1/2 1/2 1/2 1/4
+
+J: {just} {take} {my} {hand} {and} {see!}$
+R: {just} {take} {my} {hand} {and} {see!}$
+@: 547+3/4  1/2 1/2 1/4 1/2 1/2 2+1/2
+
+
+J: レー{ザー}{ビー}ムが煌(きら)めく下(した)で
+R: ree{zaa} {bii}mu ga kirameku shita de
+@: 553  1/4 1/2 1+1/4 1/2 1/4 1+1/4 1/2 1/2 1/2 1/2 1/4 1/2 1/2
+
+J: ずっとずっと
+R: zutto zutto
+@: 561  1/2 1/4 3/4 1/2 1/2 1/4
+
+J: {一緒}(いっしょ)に踊(おど)っていたいの$
+R: issho ni odotteitai no$
+@: 563+3/4  1/4 1/4 1/2 1/4 1/2 1/4 1/4 1/2 1/2 1/4 1/2 1/2
+
+J: 落(お)とさないでそのB({ビー})P({ピー})M({エム})
+R: otosanaide sono {bii}{pii}{emu}
+@: 569  1/4 1/2 1+1/4 1/2 1/4 3/4 1/2 1 1 3/4 3/4
+
+J: さあ手(て)を取(と)って
+R: saa te o totte
+@: 577  1/2 1/2 1/2 1/2 1/4 1/4 1/4
+
+J: {come}({カム}) {on}({オン}) {and}({アンド}) {dance}({ダンス}) {with}({ウィズ}) {me}({ミー})!$ 
+R: {come} {on} {and} {dance} {with} {me!}$
+@: 579+3/4  1/2 1/2 1/4 1/2 1/2 2+1/2
+
+
+J: 忘(わす)れられない夜(よる)にしたいよ$
+R: wasurerarenai yoru ni shitai yo$
+@: 586  1/2 1/2 1/2 1/4 1/2 1/2 1/4 1/2 1/2 1/2 1/2 1/4 1/2 1

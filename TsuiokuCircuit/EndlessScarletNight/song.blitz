@@ -1,0 +1,325 @@
+[Meta]
+title=Endless Scarlet Night
+title[k]=エンドレス スカーレット ナイト
+artist=追憶サーキット／ウタイさん
+artist[l]=Tsuioku Circuit / Utai-san
+artist[k]=ツイオクサーキット ウタイサン
+album=Scarlet System
+album[k]=スカーレットシステム
+seenon=東方高魔境〜the Embodiment of Scarlet Devil
+seenon[l]=Touhou Koumakyou ~ the Embodiment of Scarlet Devil
+seenon[k]=トウホウコウマキョウ ジ エンボディメント オブ スカーレットデビル
+writer=marcan・セナ
+writer[l]=marcan & sena
+writer[k]=マルカン セナ
+composer=ZUN
+composer[k]=ズン
+genre[*]=Game
+lang[*]=JA
+
+[Song]
+audio=EndlessScarletNight.opus
+video=background.jpg
+track_gain=-2.5800
+track_peak=0.9817
+cover=cover.jpg
+
+[Timing]
+@0=0
+@60=132
+
+[Formats]
+J=Japanese
+R=Romaji
+
+[Styles]
+{japanese}
+font=TakaoPGothic.ttf
+size=14
+outline_width=0.3
+border_width=0.8
+colors=ffeeee,a04020,000000
+colors_on=ff7676,ffffff,000000
+
+{romaji}
+font=TakaoPGothic.ttf
+size=11
+outline_width=0.3
+border_width=0.8
+colors=ffeeee,a04020,000000
+colors_on=ff7676,ffffff,000000
+
+[Variants]
+{japanese}
+name=日本語
+tags=J
+style=japanese
+
+{romaji}
+name=romaji
+tags=R
+style=romaji
+
+{both}
+name=日本語 + romaji
+tags=J,R
+J.style=japanese
+R.style=romaji
+R.edge=top
+
+[Lyrics]
+
+R: youbi na {shan}deria$
+J: 妖(よう)美(び)な{シャン}デリア$
+@: 38+1/2  1/2 1/2 1/2 1 1/2 1 1 2+1/2
+
+R: shinku ni tsuyameku {gurasu}$
+J: 深(しん)紅(く)に艶(つや)めく{グラス}$
+@: 46+1/2  1/4 1/4 1/2 1/2 1 1/2 1 1 2
+
+R: chi darou to wa{in} darou to$
+J: 血(ち)だろうとワ{イン}だろうと$
+@: 54+1/2  1/2 1/2 1/2 1+1/2 1 1/2 1/2 1/2 1/2 1 1/2
+
+R: anata ni wa kankei nai wa$
+J: {貴方}(あなた)には関(かん)係(けい)ないわ$
+@: 62+1/2  1/2 1/2 1/2 1 1/2 1/2 1/2 1/2 1/2 1+1/2 1/2 1/2
+
+
+R: honjitsu no bansankai$
+J: 本(ほん)日(じつ)の晩(ばん)餐(さん)会(かい)$
+@: 70+1/2  1/4 1/4 1/2 1/2 1 1/2 1 1/2 1/2 1 1
+
+R: suteki na yoru no yokan$
+J: 素(す)敵(てき)な夜(よる)の予(よ)感(かん)$
+@: 78+1/2  1/2 1/2 1/2 1+1/2 1 1/2 1/2 1/2 1+1/2 1/2
+
+R: kono shunkan kamishimete$
+J: この瞬(しゅん)間(かん)噛(か)み締(し)めて$
+@: 86+1/2  1/2 1/2 1/2 1+1/2 1/2 1/2 1/2 1/2 1/2 1+1/2 1/2
+
+R: anata mo tsuitekinasai$
+J: {貴方}(あなた)も着(つ)いて来(き)なさい$
+@: 94+1/2  1/2 1/2 1/2 1 1/2 1 1/2 1/2 2 1/2 1
+
+
+R: sono ude araku tsukande
+J: その腕(うで)荒(あら)く掴(つか)んで
+@: 103  1/2 1/4 1/4 1/2 1/2 1/2 1/4 3/4 1/2 1/4 1/4
+
+R: ayashige na emi mise
+J: 怪(あや)しげな笑(え)み見(み)せ
+@: 107+1/2  1/2 1/2 1/2 1/2 1/4 1/2 1/4 3/4 3/4
+
+R: doa e isogu no$
+J: ドアへ急(いそ)ぐの$
+@: 112  3/4 3/4 1/2 3/4 3/4 1/2 2
+
+
+R: ikkoku mo muda ni shitakunai
+J: {一刻}(いっこく)も無(む)駄(だ)にしたくない
+@: 119  1/4 1/4 1/2 1/2 1/2 1/2 1/4 1/2 1/4 3/4 3/4 1/2 1/2
+
+R: dekinai
+J: 出(で)来(き)ない
+@: 125  1/2 1/4 1/4 1/2
+
+R: hayaku odorimashou$
+J: 早(はや)く踊(おど)りましょう$
+@: 126+1/2  3/4 3/4 3/4 3/4 1/2 3/4 3/4 1/2 2
+
+
+R: ko{n}ya nemurazu
+J: 今(こん)夜(や)眠(ねむ)らず
+@: 135  1/2 1/2 1+1/2 1/2 3/4 3/4 3
+
+R: odori akashima{shou}$
+J: 踊(おど)り明(あ)かしま{しょう}$
+@: 143  1/2 1/2 1+1/2 1/4 1/4 3/4 3/4 2+1/2
+
+R: watashi ga anata ni
+J: 私(わたし)が{貴方}(あなた)に
+@: 150+1/2  1/2 1/2 1/2 1+1/2 1/2 3/4 3/4 3
+
+R: yume misete ageru$
+J: 夢(ゆめ)見(み)せてあげる$
+@: 159  1/2 1/2 1/2 1/2 1/2 1 1 2+1/2
+
+
+R: ippo fumidashi
+J: {一歩}(いっぽ)踏(ふ)み出(だ)し
+@: 167  1/2 1/2 1+1/2 1/2 3/4 3/4 3
+
+R: mae ni susumu dake$
+J: 前(まえ)に進(すす)むだけ$
+@: 175  1/2 1/2 1+1/2 1/4 1/4 3/4 3/4 2+1/2
+
+R: ano kane no ne ni
+J: あの鐘(かね)の音(ね)に
+@: 183  1/2 1/2 1+1/2 1/2 3/4 3/4 3
+
+R: shitagatte ireba {ii}
+J: 従(したが)っていれば{いい}
+@: 191  1/2 1/2 1/2 1/2 1/4 1/4 1 1 2
+
+R: owaranai {scar}{let} {night}$
+J: 終(お)わらない {Scarlet}({スカー}{レット}) {Night}({ナイト})$
+@: 198+1/2  1/2 1/2 1/2 1 1/2 1 1 1+1/2
+
+
+R: hitoyasumi shima{shou}$
+J: 一(ひと)休(やす)みしま{しょう}
+@: 242+1/2  1/2 1/2 1/2 1 1/2 1 1 1+1/2
+
+R: doresu ni tsuita mama no$
+J: ドレスに付(つ)いたままの$
+@: 250+1/2  1/2 1/2 1/2 1/2 1/2 1/2 1 1/2 1/2 1+1/2
+
+R: shinkuiro no shimi nante$
+J: 深(しん)紅(く)色(いろ)の染(し)みなんて
+@: 258+1/2  1/4 1/4 1/2 1/2 1+1/2 1 1/2 1/2 1/2 1+1/2 1/2
+
+R: ki ni shinakute ii wa$
+J: 気(き)にしなくていいわ$
+@: 266+1/2  1/2 1/2 1/2 1 1/2 1 1 2 1/2
+
+
+R: watashi osusume no$
+J: 私(わたし)オススメの
+@: 274+1/2  1/2 1/2 1/2 1 1/2 1 1 2
+
+R: kakuteru wa ikaga?$
+J: カクテルはいかが？$
+@: 282+1/2  1/2 1/2 1/2 1+1/2 1 1/2 1/2 2
+
+R: yukkuri to tanoshinde$
+J: ゆっくりと楽(たの)しんで
+@: 290+1/2  1/2 1/2 1/2 1+1/2 1 1/2 1/2 1/2 1+1/2 1/2
+
+R: madamada yoru wa nagai wa$
+J: まだまだ夜(よる)は長(なが)いわ$
+@: 298+1/2  1/2 1/2 1/2 1 1/2 1 1/2 1/2 1+1/2 1/2 1/2
+
+
+R: kinchou nante shinaide
+J: 緊(きん)張(ちょう)なんてしないで
+@: 307  1/4 1/4 1/4 1/4 1/4 1/4 1/2 1/2 1/4 3/4 3/4
+
+R: fuan wasurete
+J: 不(ふ)安(あん)忘(わす)れて
+@: 311+1/4  3/4 1/2 1/2 1/2 1/4 3/4 3/4
+
+R: tada tanoshimima{shou}$
+J: ただ楽(たの)しみま{しょう}$
+@: 315+1/4  3/4 3/4 3/4 1/2 3/4 3/4 1/2 2
+
+
+R: kodou ga hayamatteru
+J: 鼓(こ)動(どう)が早(はや)まってる
+@: 323  1/2 1/2 1/2 1/2 1/2 1/4 1/2 1/4 3/4 3/4
+
+R: anata to no kekkai o kowashitai$
+J: {貴方}(あなた)との結(けっ)界(かい)を壊(こわ)したい$
+@: 328  1/2 1/2 1/2 1/4 3/4 3/4 3/4 3/4 3/4 1/2 3/4 3/4 1/2 1+1/2 1/2
+
+
+R: koko de wa watashi no
+J: ここでは私(わたし)の
+@: 338+1/2  1/2 1/2 1/2 1+1/2 1/2 3/4 3/4 2+1/2
+
+R: iu koto ga zettai yo$
+J: 言(い)うことが絶(ぜっ)対(たい)よ$
+@: 346+1/2  1/2 1/2 1/2 1+1/2 1/2 1/4 1/2 1/2 1/4 2+1/4
+
+R: kowagaranaide
+J: 怖(こわ)がらないで
+@: 355  1/2 1/2 1+1/2 1/2 3/4 3/4 2+1/2
+
+R: tada odoru dake yo$
+J: ただ踊(おど)るだけよ$
+@: 363  1/2 1/2 1/2 1/2 1/2 1 1 2+1/2
+
+
+R: kono hibiku oto ni
+J: この響(ひび)く音(おと)に
+@: 370+1/2  1/2 1/2 1/2 1+1/2 1/2 3/4 3/4 2+1/2
+
+R: kokoro yowasete$
+J: 心(こころ)酔(よ)わせて$
+@: 379  1/2 1/2 1+1/2 1/2 3/4 3/4 2+1/2
+
+R: eien ni suteppu o
+J: 永(えい)遠(えん)にステップを
+@: 387  1/2 1/2 1+1/4 1/4 1/4 1/4 1/4 1/2 3/4 2+1/2
+
+R: fumi tsudzukemashou
+J: 踏(ふ)み続(つづ)けましょう
+@: 395  1/2 1/2 1/2 1/2 1/2 1 1 2+1/4
+
+R: owaranai {scar}{let} {night}$
+J: 終(お)わらない {Scarlet}({スカー}{レット}) {Night}({ナイト})$
+@: 402+1/2  1/2 1/2 1/2 1 1/2 1 1 1+1/2
+
+
+R: sono ude araku tsukande
+J: その腕(うで)荒(あら)く掴(つか)んで
+@: 475  1/2 1/4 1/4 1/2 1/2 1/2 1/4 3/4 1/2 1/4 1/4
+
+R: ayashige na emi mise
+J: 怪(あや)しげな笑(え)み見(み)せ
+@: 479+1/2  1/2 1/2 1/2 1/2 1/4 1/2 1/4 3/4 3/4
+
+R: doa e isogu no$
+J: ドアへ急(いそ)ぐの$
+@: 484  3/4 3/4 1/2 3/4 3/4 1/2 2
+
+
+R: ikkoku mo muda ni shitakunai
+J: {一刻}(いっこく)も無(む)駄(だ)にしたくない
+@: 491  1/4 1/4 1/2 1/2 1/2 1/2 1/4 1/2 1/4 3/4 3/4 1/2 1/2
+
+R: dekinai
+J: 出(で)来(き)ない
+@: 497  1/2 1/4 1/4 1/2
+
+R: hayaku odorimashou$
+J: 早(はや)く踊(おど)りましょう$
+@: 498+1/2  3/4 3/4 3/4 3/4 1/2 3/4 3/4 1/2 2
+
+
+R: ko{n}ya nemurazu
+J: 今(こん)夜(や)眠(ねむ)らず
+@: 507  1/2 1/2 1+1/2 1/2 3/4 3/4 3
+
+R: odori akashima{shou}$
+J: 踊(おど)り明(あ)かしま{しょう}$
+@: 515  1/2 1/2 1+1/2 1/4 1/4 3/4 3/4 2+1/2
+
+R: watashi ga anata ni
+J: 私(わたし)が{貴方}(あなた)に
+@: 522+1/2  1/2 1/2 1/2 1+1/2 1/2 3/4 3/4 3
+
+R: yume misete ageru$
+J: 夢(ゆめ)見(み)せてあげる$
+@: 531  1/2 1/2 1/2 1/2 1/2 1 1 2+1/2
+
+
+R: ippo fumidashi
+J: {一歩}(いっぽ)踏(ふ)み出(だ)し
+@: 539  1/2 1/2 1+1/2 1/2 3/4 3/4 3
+
+R: mae ni susumu dake$
+J: 前(まえ)に進(すす)むだけ$
+@: 547  1/2 1/2 1+1/2 1/4 1/4 3/4 3/4 2+1/2
+
+R: ano kane no ne ni
+J: あの鐘(かね)の音(ね)に
+@: 555  1/2 1/2 1+1/2 1/2 3/4 3/4 3
+
+R: shitagatte ireba {ii}
+J: 従(したが)っていれば{いい}
+@: 563  1/2 1/2 1/2 1/2 1/4 1/4 1 1 2
+
+R: owaranai {scar}{let} {night}$
+J: 終(お)わらない {Scarlet}({スカー}{レット}) {Night}({ナイト})$
+@: 570+1/2  1/2 1/2 1/2 1 1/2 1 1 1+1/2
