@@ -57,8 +57,9 @@ used under the following conditions:
 
 * You may not modify the audio/video/graphic data of these songs.
 
-* You may modify the lyrics data to make stylistic or timing changes, translate
-  the lyrics, etc. as long as such modified versions are clearly marked.
+* You may modify the lyrics data to make stylistic or timing changes, as long
+  as such modified versions are clearly marked. You may not modify the lyrics
+  text itself, except to correct errors.
 
   If you notice timing issues or typos, please open a PR against this repo.
 
