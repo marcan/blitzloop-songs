@@ -52,6 +52,6 @@ releases via [export_joysound_prj.py](https://github.com/marcan/blitzloop-tools/
 ## License
 
 See the top-level README.md. If you want to use these songs for another purpose,
-such as making a remix, or using BlitzLoop outside those terms, please e-mail
-marcan@marcan.st. Chances are I'll give you permission (and probably better
-data) :-).
+such as making a remix, translation, cover, etc, or using BlitzLoop outside those
+terms, please e-mail marcan@marcan.st or DM @TsuiokuCircuit on Twitter. Chances
+are I'll give you permission (and probably better source data) :-).
